@@ -1,0 +1,37 @@
+INSTRUCTIONS ON HOW TO INSTALL AND USE THE DESIREE STUDENT INFORMATION SYSYTEM 
+
+ This program called the DESIREE STUDENT INFORMATION SYSTEM. This program is for School purposes to store and track all student information, including grades, attendance records, and more.  
+
+HOW TO INSTALL THE DESIREE SIS: 
+
+   You need to open this program using visual studio   
+
+ 
+
+ 
+
+ 
+
+STEPS ON HOW TO USE THE DESIREE SIS: 
+
+- Connect the SIS Website 
+
+- Once you connect the SIS Website, the entry page will display “STUDENT INFORMATION SYSTEM, WELCOME TO DESIREE SIS”. 
+
+- On the display entry page you need to choose or select  your destination.  Student or Teacher. 
+
+- If you are student, you have two choices. You have to press 1 if you are new student to sign up. You have to enter your first name, last name, student number, course, and academic year. 
+
+- Press 2  if you want to view your records but you have to enter your  student number. 
+
+- For teachers you also have choices.  You have to Press 3 if you want to edit the records of the student or you want to add a grades. You have to enter your username ( Teacher) and password (2023). 
+
+- If you want to delete the records, Just press 4 then enter (admin) and password (2023) then enter the student number that you want to delete. 
+
+- If you want to make sure that the records you want to delete and to view all the records, Press 5 then enter (admin ) and password (2023) then all the records will display. 
+
+- Just Press 6 if you’re done and it will exit the program. 
+
+ 
+
+ 
