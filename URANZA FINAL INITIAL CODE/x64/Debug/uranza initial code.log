@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (uranza initial code.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  uranza initial code.cpp
+  uranza initial code.vcxproj -> C:\Users\My pc\source\repos\URANZA FINAL INITIAL CODE\x64\Debug\URANZA FINAL INITIAL CODE.exe
